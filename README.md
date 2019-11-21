@@ -1,1 +1,1 @@
-# tutorial-storybook-design-system
+# learnstorybook-design-system
